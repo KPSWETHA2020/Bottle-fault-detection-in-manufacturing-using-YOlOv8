@@ -2,7 +2,7 @@
 import cv2
 from ultralytics import YOLO
 from matplotlib import pyplot as plt
-from IPython.display import clear_output
+from IPython.display import clear_outpu
 
 # Load the YOLOv8 model
 model = YOLO("/content/best.pt")
