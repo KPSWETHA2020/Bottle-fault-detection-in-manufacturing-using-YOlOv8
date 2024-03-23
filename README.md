@@ -1,0 +1,1 @@
+# Bottle-fault-detection-in-manufacturing-using-YOlOv8
